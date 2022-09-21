@@ -46,8 +46,6 @@ iframe#tela {
 }
 
 section#redes-sociais {
-    display: flex;
-    flex-direction: column;
     text-align: right;
 }
 
